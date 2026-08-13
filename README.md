@@ -195,16 +195,10 @@ The allowlist is intentionally conservative. A legitimate PoC hosted somewhere e
 PastelRecon/
 ├── assets/
 │   ├── icon.png
-│   └── pastelrecon-banner.png
-├── examples/
-│   └── example-output.txt
 ├── .gitignore
-├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
-├── SECURITY.md
 ├── pastelrecon.py
-├── pyproject.toml
 └── requirements.txt
 ```
 
