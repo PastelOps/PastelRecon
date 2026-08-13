@@ -72,24 +72,12 @@ py -m venv .venv
 python3 -m pip install -r requirements.txt
 ```
 
-You can also install the project locally so the `pastelrecon` command is available:
-
-```bash
-python3 -m pip install .
-```
-
 ## Usage
 
 Run the script directly:
 
 ```bash
 python3 pastelrecon.py -o CVE-2024-3400
-```
-
-Or, after `pip install .`:
-
-```bash
-pastelrecon -o CVE-2024-3400
 ```
 
 Raise the confidence threshold:
@@ -214,7 +202,7 @@ Use PastelRecon only for lawful, authorized security research. You are responsib
 
 ## Contributing
 
-Pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for development and contribution guidance.
+Contributions, bug reports, and suggestions are welcome. Feel free to open an issue or submit a pull request.
 
 ## License
 
